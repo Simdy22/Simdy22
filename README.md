@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Simdy
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning React, HTML, CSS, Java and C#
 - How to reach me joellesimdy@gmail.com
 
 <!---
